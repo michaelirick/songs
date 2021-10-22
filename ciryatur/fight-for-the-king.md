@@ -4,6 +4,7 @@
 * Album: (unreleased) 
 * Copyright 2016 Hatchie Studio, LLC
 
+```
 Verse 1:
 See our banners in the wind
 Hear the trumpet, hear the din
